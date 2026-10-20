@@ -18,7 +18,7 @@
           pkgs.python312Packages.pyusb
           pkgs.python312Packages.pycairo
           pkgs.python312Packages.future
-          pkgs.python312Packages.setuptools
+          pkgs.python312Packages.setuptools_80
 
           pkgs.python312Packages.pygobject3
           pkgs.gtk3
